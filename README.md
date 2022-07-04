@@ -5,8 +5,6 @@ The dataset can be found here: https://github.com/iesl/CSFCube
 
 The paper describing the dataset can be accessed here: https://openreview.net/forum?id=8Y50dBbmGU
 
-**Team members:** Ashutosh Kumar Singh , Ashwamegh Rathore , Nakul Aggarwal , Suhas Jain
-
 
 
 ## Table of Contents ##
